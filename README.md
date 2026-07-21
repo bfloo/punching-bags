@@ -1,3 +1,4 @@
+[Read french here](https://github.com/bfloo/punching-bags/blob/main/LISEZMOI.md)\
 Thank you for using the Veilstone Gym pack, provided by SirMalo and Flo. Here are some instructions on how to use it:
 
 
