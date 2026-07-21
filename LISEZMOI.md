@@ -1,3 +1,4 @@
+[Read english here](https://github.com/bfloo/punching-bags/blob/main/README.md)\
 Merci d'utiliser ce pack Arène de Voilaroc, créé par SirMalo et Flo. Voici quelques instructions pour vous en servir au mieux :
 
 
